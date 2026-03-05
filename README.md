@@ -1,7 +1,7 @@
 # Rekrutacja akai
 
 Witajcie!
-Koło naukowe AKAI szuka nowych członków na rok akademicki 2024/2025.
+Koło naukowe AKAI szuka nowych członków na rok akademicki 2025/2026.
 
 Dla osób zainteresowanych rozwojem projektów programistycznych:
 Do wykonania macie jedno zadanie z dowolnie wybranego języka z listy.
@@ -42,4 +42,4 @@ Zasoby: Opisz, jakie zasoby (ludzkie, technologiczne, finansowe) będą potrzebn
 Zadanie: Przygotuj listę zasobów wraz z krótkim uzasadnieniem ich wyboru.
 
 ### Koordynator/Lider
-Jeżeli chciałbyś zostać liderem lub koordynatorem w naszym kole wyślij maila na adres rekrutacja@akai.org.pl zatytułowanego "Rekrutacja KL 2024" wyrażającego twoją chęć do dołączenia do nas! Następnie zostaniesz umówiony na rozmowę z naszym zarządem w celu weryfikacji.
+Jeżeli chciałbyś zostać liderem lub koordynatorem w naszym kole wyślij maila na adres rekrutacja@akai.org.pl zatytułowanego "Rekrutacja KL 2025/2026" wyrażającego twoją chęć do dołączenia do nas! Następnie zostaniesz umówiony na rozmowę z naszym zarządem w celu weryfikacji.
